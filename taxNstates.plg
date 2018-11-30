@@ -1,0 +1,134 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: taxNstates - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\perrif\LOCALS~1\Temp\RSP4DF4.tmp" with contents
+[
+/check:bounds /compile_only /debug:full /include:"taxNstates___Win32_Debug/" /libs:qwin /nologo /warn:argument_checking /warn:nofileopt /module:"taxNstates___Win32_Debug/" /object:"taxNstates___Win32_Debug/" /pdbfile:"taxNstates___Win32_Debug/DF60.PDB" 
+"F:\research\krueger_tax\revision07\progtax01\params.f90"
+"F:\research\krueger_tax\revision07\progtax01\xdemand.f90"
+"F:\research\krueger_tax\revision07\progtax01\values.f90"
+"F:\research\krueger_tax\revision07\progtax01\syssav.f90"
+"F:\research\krueger_tax\revision07\progtax01\sysex.f90"
+"F:\research\krueger_tax\revision07\progtax01\sysbin.f90"
+"F:\research\krueger_tax\revision07\progtax01\sys3.f90"
+"F:\research\krueger_tax\revision07\progtax01\sys2.f90"
+"F:\research\krueger_tax\revision07\progtax01\sys1.f90"
+"F:\research\krueger_tax\revision07\progtax01\sty.f90"
+"F:\research\krueger_tax\revision07\progtax01\resourceexinc.f90"
+"F:\research\krueger_tax\revision07\progtax01\resource.f90"
+"F:\research\krueger_tax\revision07\progtax01\residexinc.f90"
+"F:\research\krueger_tax\revision07\progtax01\resid.f90"
+"F:\research\krueger_tax\revision07\progtax01\Newton.f90"
+"F:\research\krueger_tax\revision07\progtax01\mchain2.f90"
+"F:\research\krueger_tax\revision07\progtax01\Markov.f"
+"F:\research\krueger_tax\revision07\progtax01\main.f90"
+"F:\research\krueger_tax\revision07\progtax01\loadfun.f90"
+"F:\research\krueger_tax\revision07\progtax01\iniguess.f90"
+"F:\research\krueger_tax\revision07\progtax01\guess.f90"
+"F:\research\krueger_tax\revision07\progtax01\gini.f90"
+"F:\research\krueger_tax\revision07\progtax01\exincmarkets.f90"
+"F:\research\krueger_tax\revision07\progtax01\enforceexinc.f90"
+"F:\research\krueger_tax\revision07\progtax01\enforce.f90"
+"F:\research\krueger_tax\revision07\progtax01\dissexinc.f90"
+"F:\research\krueger_tax\revision07\progtax01\diss.f90"
+"F:\research\krueger_tax\revision07\progtax01\dgrid2.f90"
+"F:\research\krueger_tax\revision07\progtax01\dgrid.f90"
+"F:\research\krueger_tax\revision07\progtax01\condistexinc.f90"
+"F:\research\krueger_tax\revision07\progtax01\condist.f90"
+"F:\research\krueger_tax\revision07\progtax01\cmarkets.f90"
+"F:\research\krueger_tax\revision07\progtax01\autvalsav.f90"
+"F:\research\krueger_tax\revision07\progtax01\autval.f90"
+]
+Creating temporary file "C:\DOCUME~1\perrif\LOCALS~1\Temp\RSP4DF5.tmp" with contents
+[
+kernel32.lib /nologo /entry:"WinMainCRTStartup" /subsystem:windows /incremental:yes /pdb:"taxNstates___Win32_Debug/taxNstates.pdb" /debug /machine:I386 /nodefaultlib:"dfconsol.lib" /out:"taxNstates___Win32_Debug/taxNstates.exe" /pdbtype:sept 
+.\taxNstates___Win32_Debug\autval.obj
+.\taxNstates___Win32_Debug\autvalsav.obj
+.\taxNstates___Win32_Debug\cmarkets.obj
+.\taxNstates___Win32_Debug\condist.obj
+.\taxNstates___Win32_Debug\condistexinc.obj
+.\taxNstates___Win32_Debug\dgrid.obj
+.\taxNstates___Win32_Debug\dgrid2.obj
+.\taxNstates___Win32_Debug\diss.obj
+.\taxNstates___Win32_Debug\dissexinc.obj
+.\taxNstates___Win32_Debug\enforce.obj
+.\taxNstates___Win32_Debug\enforceexinc.obj
+.\taxNstates___Win32_Debug\exincmarkets.obj
+.\taxNstates___Win32_Debug\Fputil.obj
+.\taxNstates___Win32_Debug\gini.obj
+.\taxNstates___Win32_Debug\guess.obj
+.\taxNstates___Win32_Debug\iniguess.obj
+.\taxNstates___Win32_Debug\loadfun.obj
+.\taxNstates___Win32_Debug\main.obj
+.\taxNstates___Win32_Debug\Markov.obj
+.\taxNstates___Win32_Debug\mchain2.obj
+.\taxNstates___Win32_Debug\Newton.obj
+.\taxNstates___Win32_Debug\params.obj
+.\taxNstates___Win32_Debug\resid.obj
+.\taxNstates___Win32_Debug\residexinc.obj
+.\taxNstates___Win32_Debug\resource.obj
+.\taxNstates___Win32_Debug\resourceexinc.obj
+.\taxNstates___Win32_Debug\sty.obj
+.\taxNstates___Win32_Debug\sys1.obj
+.\taxNstates___Win32_Debug\sys2.obj
+.\taxNstates___Win32_Debug\sys3.obj
+.\taxNstates___Win32_Debug\sysbin.obj
+.\taxNstates___Win32_Debug\sysex.obj
+.\taxNstates___Win32_Debug\syssav.obj
+.\taxNstates___Win32_Debug\values.obj
+.\taxNstates___Win32_Debug\xdemand.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\perrif\LOCALS~1\Temp\RSP4DF5.tmp"
+<h3>Output Window</h3>
+Compiling Fortran...
+F:\research\krueger_tax\revision07\progtax01\params.f90
+F:\research\krueger_tax\revision07\progtax01\xdemand.f90
+F:\research\krueger_tax\revision07\progtax01\values.f90
+F:\research\krueger_tax\revision07\progtax01\syssav.f90
+F:\research\krueger_tax\revision07\progtax01\sysex.f90
+F:\research\krueger_tax\revision07\progtax01\sysbin.f90
+F:\research\krueger_tax\revision07\progtax01\sys3.f90
+F:\research\krueger_tax\revision07\progtax01\sys2.f90
+F:\research\krueger_tax\revision07\progtax01\sys1.f90
+F:\research\krueger_tax\revision07\progtax01\sty.f90
+F:\research\krueger_tax\revision07\progtax01\resourceexinc.f90
+F:\research\krueger_tax\revision07\progtax01\resource.f90
+F:\research\krueger_tax\revision07\progtax01\residexinc.f90
+F:\research\krueger_tax\revision07\progtax01\resid.f90
+F:\research\krueger_tax\revision07\progtax01\Newton.f90
+F:\research\krueger_tax\revision07\progtax01\mchain2.f90
+F:\research\krueger_tax\revision07\progtax01\Markov.f
+F:\research\krueger_tax\revision07\progtax01\Markov.f(611) : Warning: Variable NOUT is used before its value has been defined
+      WRITE(NOUT,100) IER
+------------^
+F:\research\krueger_tax\revision07\progtax01\main.f90
+F:\research\krueger_tax\revision07\progtax01\loadfun.f90
+F:\research\krueger_tax\revision07\progtax01\iniguess.f90
+F:\research\krueger_tax\revision07\progtax01\guess.f90
+F:\research\krueger_tax\revision07\progtax01\gini.f90
+F:\research\krueger_tax\revision07\progtax01\exincmarkets.f90
+F:\research\krueger_tax\revision07\progtax01\enforceexinc.f90
+F:\research\krueger_tax\revision07\progtax01\enforce.f90
+F:\research\krueger_tax\revision07\progtax01\dissexinc.f90
+F:\research\krueger_tax\revision07\progtax01\diss.f90
+F:\research\krueger_tax\revision07\progtax01\dgrid2.f90
+F:\research\krueger_tax\revision07\progtax01\dgrid.f90
+F:\research\krueger_tax\revision07\progtax01\condistexinc.f90
+F:\research\krueger_tax\revision07\progtax01\condist.f90
+F:\research\krueger_tax\revision07\progtax01\cmarkets.f90
+F:\research\krueger_tax\revision07\progtax01\autvalsav.f90
+F:\research\krueger_tax\revision07\progtax01\autval.f90
+Linking...
+
+
+
+<h3>Results</h3>
+taxNstates.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

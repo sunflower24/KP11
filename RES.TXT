@@ -1,0 +1,87 @@
+beta=0.021
+
+Expected Utility 1 is   -1.85579175251876     
+ Expected Utility 2 is   -1.85493062949236     
+  Cons. Distr. saved 
+ consuption, endowment, redidual 
+  0.852037291882960       0.852015472186299       2.181969666159578E-005
+ Private intermediation (1)  2.509632006865761E-003
+ Govt intermediation (1)  4.266721328041938E-002
+ Private intermediation (2)  1.016552916421221E-003
+ Govt intermediation (2)  0.197300374207795     
+ Total intermediation (2)  0.198116360853404     
+ equilibrium intertemporal price 
+   1.02909994125366     
+
+   Test C (this should be 1)    1.00000000000000     
+ Expected Utility 1 is   -1.85579175251876     
+ Expected Utility 2 is   -1.85493062949236     
+  Cons. Distr. saved 
+ The gini index is
+  0.349737816706543  
+  
+  beta=0.025
+  
+   Cons. Distr. saved 
+ consuption, endowment, redidual 
+  0.852008739669064       0.852015472186299      -6.732517235152891E-006
+ Private intermediation (1)  2.859244693447452E-003
+ Govt intermediation (1)  4.266721328041941E-002
+ Private intermediation (2)  1.707300002318335E-003
+ Govt intermediation (2)  0.197300374207795     
+ Total intermediation (2)  0.198670823280771     
+ equilibrium intertemporal price 
+   1.02909994125366     
+Fortran Pause - Enter command<CR> or <CR> to continue.
+ Test C (this should be 1)    1.00000000000000     
+ Expected Utility 1 is   -1.85474996066066     
+ Expected Utility 2 is   -1.85389735885216     
+  Cons. Distr. saved 
+ The gini index is
+  0.349404212136152    
+  
+  
+  beta = 0.241
+   consuption, endowment, redidual 
+  0.850731724258192       0.850730848127905       8.761302864312981E-007
+ Private intermediation (1)  2.823557988970982E-003
+ Govt intermediation (1)  4.269180748758485E-002
+ Private intermediation (2)  1.561066043020642E-003
+ Govt intermediation (2)  0.197300374207795     
+ Total intermediation (2)  0.198553441336365     
+ equilibrium intertemporal price 
+   1.02909994125366     
+Fortran Pause - Enter command<CR> or <CR> to continue.
+ Test C (this should be 1)    1.00000000000000     
+ Expected Utility 1 is   -1.85776662972269     
+ Expected Utility 2 is   -1.85690594964639     
+  Cons. Distr. saved 
+ The gini index is
+  0.349479215457047         
+
+
+
+prpoprtional
+  Expected Utility 1 is   -2.34143523220430     
+ Expected Utility 2 is   -2.34018658582657     
+  Cons. Distr. saved 
+ consuption, endowment, redidual 
+  0.850730860803220       0.850730857274436       3.528784153772335E-009
+ Private intermediation (1)  6.142250826264485E-003
+ Govt intermediation (1)  0.000000000000000E+000
+ Private intermediation (2)  1.643202524181253E-002
+ Govt intermediation (2)  0.000000000000000E+000
+ Total intermediation (2)  1.643202524181253E-002
+ equilibrium intertemporal price 
+   2.17286528462400     
+Fortran Pause - Enter command<CR> or <CR> to continue.
+ Test C (this should be 1)    1.00000000000000     
+ Expected Utility 1 is   -2.34143523220430     
+ Expected Utility 2 is   -2.34018658582657     
+  Cons. Distr. saved 
+ The gini index is
+  0.383194835042605 
+
+
+
+
